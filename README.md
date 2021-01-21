@@ -1,4 +1,4 @@
-## ZTA Day 4-5 (12-13.12.2020)
+## ZTA Day 3-4 (12-13.12.2020)
 ### MovieDB
 #### 1. Dodaj film
 #### 2. Szukaj filmu po nazwie
